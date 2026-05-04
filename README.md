@@ -7,10 +7,11 @@ This repository serves as a central hub for the code I write while completing Co
 <div align="center" style="inline-block"> 
 <br/>
   
-|    SEMESTER   |       COURSE      |
-|:-------------:|:-----------------:|
-|  `Fall 2025`  | [TIP 101](TIP101) |
-| `Spring 2026` | [TIP 102](TIP102) |
+|    SEMESTER   |       COURSE      |               SYLLABUS              |
+|:-------------:|:-----------------:|:-----------------------------------:|
+|  `Fall 2025`  | [TIP 101](TIP101) | [PDF](TIP101/Abstract/syllabus.pdf) |
+| `Spring 2026` | [TIP 102](TIP102) | [PDF](TIP102/Abstract/syllabus.pdf) |
+| `Summer 2026` | [TIP 103](TIP103) | [PDF](TIP103/Abstract/syllabus.pdf) |
 
 </div>
 
