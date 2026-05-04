@@ -15,6 +15,13 @@ This repository serves as a central hub for the code I write while completing Co
 
 </div>
 
+## Environment Setup
+
+```python
+uv venv --python 3.14
+source .venv/bin/activate
+```
+
 ## Note on Importing Utilities
 
 ```python
